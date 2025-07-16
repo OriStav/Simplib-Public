@@ -1,0 +1,6 @@
+ - python3.12 -m venv /Users/..../venvs/simplib_venv
+ - source /Users/.../venvs/simplib_venv/bin/activate
+ - python3.12 -m pip install --upgrade pip
+ - pip install -r requirements.txt
+
+ - streamlit run app.py
