@@ -3,6 +3,7 @@
 **Simplib** is a lightweight, Hebrew-language web app built to help a local community library manage its **book inventory** and **lending process**.
 Developed as a volunteer weekend project, it simplifies librarian tasks and improves accessibility for users who aren't familiar with digital tools.
 
+Deployed demo: https://simplib.streamlit.app
 
 ## 🔑 Key Features
 
